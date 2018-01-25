@@ -9,6 +9,10 @@
   "author": "emin vergil",
   "license": "MIT",
   "dependencies": {
+    "convex-hull": "1.0.3",
+    "delaunay-triangulate": "1.1.6",
+    "density-clustering": "1.3.0",
+    "new-array": "1.0.0",
     "penplot": "2.0.0"
   }
 }
