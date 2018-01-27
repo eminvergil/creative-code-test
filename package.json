@@ -13,6 +13,7 @@
     "delaunay-triangulate": "1.1.6",
     "density-clustering": "1.3.0",
     "new-array": "1.0.0",
+    "p5": "0.6.0",
     "penplot": "2.0.0"
   }
 }
